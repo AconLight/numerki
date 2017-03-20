@@ -9,7 +9,7 @@ int main()
     Pacia *pacia = new Pacia();
     cout << "Hello world!" << endl;
 
-    (*wojtek).fun2();
+    (*wojtek).main2();
 
     (*pacia).fun1();
     return 0;
