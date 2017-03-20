@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1490032546 source:c:\users\wojciech\desktop\szko³a\numerki\zad2\main.cpp
+	<iostream>
+	<Wojtek.h>
+	<Pacia.h>
+
+1490032636 source:c:\users\wojciech\desktop\szko³a\numerki\zad2\src\pacia.cpp
+	"Pacia.h"
+	<iostream>
+
+1490032678 c:\users\wojciech\desktop\szko³a\numerki\zad2\include\pacia.h
+	<iostream>
+
+1490032695 c:\users\wojciech\desktop\szko³a\numerki\zad2\include\wojtek.h
+	<iostream>
+
+1490032601 source:c:\users\wojciech\desktop\szko³a\numerki\zad2\src\wojtek.cpp
+	"Wojtek.h"
+	<iostream>
+
